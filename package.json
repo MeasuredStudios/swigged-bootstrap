@@ -56,7 +56,7 @@
     "@types/highlight.js": "9.12.4",
     "@types/imagesloaded": "4.1.2",
     "@types/isotope-layout": "3.0.8",
-    "@types/jquery": "3.5.5",
+    "@types/jquery": "3.5.6",
     "@types/node": "14.17.0",
     "@types/node-sass": "4.11.1",
     "@types/prettier": "2.2.3",
