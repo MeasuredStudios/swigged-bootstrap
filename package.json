@@ -47,7 +47,7 @@
     "@types/eslint-plugin-prettier": "3.1.0",
     "@types/babel-core": "6.25.6",
     "@types/flickity": "2.2.4",
-    "@types/gulp": "4.0.8",
+    "@types/gulp": "4.0.9",
     "@types/gulp-autoprefixer": "0.0.32",
     "@types/gulp-cached": "0.0.31",
     "@types/gulp-file-include": "0.14.4",
