@@ -25,7 +25,7 @@
   ],
   "main": "gulpfile.js",
   "dependencies": {
-    "bootstrap": "5.0.1",
+    "bootstrap": "5.0.2",
     "jquery": "3.6.0",
     "popper.js": "1.16.1",
     "@fancyapps/fancybox": "3.5.7",
@@ -42,7 +42,7 @@
   },
   "devDependencies": {
     "@types/aos": "3.0.3",
-    "@types/bootstrap": "5.0.15",
+    "@types/bootstrap": "5.0.17",
     "@types/eslint": "7.2.11",
     "@types/eslint-plugin-prettier": "3.1.0",
     "@types/babel-core": "6.25.6",
